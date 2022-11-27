@@ -11,7 +11,7 @@ set('bin/composer', '{{bin/php}} $(which composer)');
 set('application', 'bookmarks');
 
 // Project repository
-set('repository', 'git@github.com:SlovakNationalGallery/bookmarks.sng.sk.git');
+set('repository', 'git@github.com:SlovakNationalGallery/kod.sng.sk.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', true);
